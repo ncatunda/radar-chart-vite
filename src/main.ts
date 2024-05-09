@@ -20,7 +20,7 @@ const data = {
       label: "Variante 1",
       data: [89,	100, 86,	100,	100,	31,	91, 58, 70, 100],
       fill: true,
-      // backgroundColor: "rgba(255, 99, 132, 0.2)",
+      backgroundColor: "rgba(255, 99, 132, 0.2)",
       // borderColor: "rgb(255, 99, 132)",
       // pointBackgroundColor: "rgb(255, 99, 132)",
       // pointBorderColor: "#fff",
